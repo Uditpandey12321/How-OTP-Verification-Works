@@ -2,6 +2,7 @@
 
 Email OTP (One-Time Password) verification is a security mechanism used to verify that a user can access a particular email inbox.
 
+
 This section explains how to generate OTPs, deliver them through email, securely store verification data, validate submitted codes, and handle expiration and failed attempts using Node.js, Express, and MongoDB.
 
 ---
